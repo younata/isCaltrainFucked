@@ -2,4 +2,5 @@
 applications:
 - name: iscaltrainfucked
   memory: 256M
+  command: bin/run.sh
   buildpack: ruby_buildpack
