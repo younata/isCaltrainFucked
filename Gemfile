@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'rails', '~> 4.2.5'
-gem 'pg'
 gem 'unicorn'
 
 # Gems used only for assets and not required

@@ -16,8 +16,8 @@ RSpec.describe HomeController, :type => :controller do
     end
 
     it 'assigns a default value' do
-      expect(assigns(:message)).to eq('Maybe')
-      expect(assigns(:description)).to eq('Hard to say.')
+      expect(assigns(:message)).to eq('PROBABLY')
+      expect(assigns(:description)).to eq('I hear the grumblings on twitter')
     end
   end
 end
