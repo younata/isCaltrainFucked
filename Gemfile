@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '~> 4.2.5'
 gem 'unicorn'
+gem 'bigdecimal', '1.3.5'
 
 # Gems used only for assets and not required
 # in production environments by default.
